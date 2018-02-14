@@ -1,0 +1,36 @@
+.bottom {
+	background-color: white;
+	padding: 5% 10%;
+}
+
+.before {
+	color: #4e5965;
+	font-family: "Raleway", sans-serif; 
+	font-size: 3.5em;
+	font-weight: 200 ;
+	padding-bottom: 5%;
+}
+
+.text {
+	width: 28%; 
+	line-height: 1.4;
+	/*text-align: justify;*/
+
+}
+
+.documents {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.subscribe {
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	padding: 5% 0;
+}
+
+.sub {
+	width: 7vw;
+}

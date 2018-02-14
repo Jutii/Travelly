@@ -1,0 +1,18 @@
+
+
+.title {
+	text-transform: uppercase;
+	color: #374048;
+	font-weight: bolder;
+	padding: 1% 0;
+}
+
+.content {
+	color: #7d8c9b;
+}
+
+body {
+	background-color: #E8E8E8;
+	font-family: fantasy;
+	margin: 0;
+}

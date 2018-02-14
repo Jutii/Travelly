@@ -1,0 +1,48 @@
+.slideshow {
+	margin: 5% 10%;
+}
+
+.slide1, .slide2, .slide3, .slide4 {
+	display: flex;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 25vh;
+	
+	color: white;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+.all{
+	display: flex;
+	justify-content: space-between;
+}
+
+.under {
+	background-color: white;
+	max-height: 400px;
+	max-width: 240px;
+	box-shadow: 0px 3px 8px #D8D8D8;
+	font-size: 0.9em;
+	}
+
+.slide1 {
+		background-image: url("../img/Australia.jpg");
+}
+
+.slide2 {
+		background-image: url("../img/AmericaS.jpg");
+}
+
+.slide3 {
+		background-image: url("../img/AmericaN.jpg");
+}
+
+.slide4 {
+		background-image: url("../img/europe.jpg");
+}
+
+
+.slides {
+	padding: 6%;
+}

@@ -1,0 +1,58 @@
+.header {
+	background-image: url("../img/header.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50vw;
+	margin: 0 auto;
+    display: flex; }
+
+.logo {
+	align-items: left;
+	width: 97vw;
+	}
+
+.menu {
+	align-items: right;
+	padding-right: 3.5%;
+}
+
+.where {
+	padding-top: 13%;
+	color: white;
+	font-family: "Raleway", sans-serif; 
+	font-size: 4em;
+	text-align: center;
+}
+
+table {
+	margin: 5%;
+}
+
+.input {
+	padding: 3% 0 0 0;
+	text-align: center;
+	margin: 0;
+	font-size: 1.5em;
+}
+
+input {
+	width: 23vw;
+	height: 5.5vh;
+	background-color: #E8E8E8;
+	border: none;
+	color: #ADADAD;
+	text-indent: 2em;
+
+
+}
+
+button {
+	background-color: #ff6633;
+	border: none;
+	width: 5vw;
+	height: 5.5vh;
+	font-weight: bold;
+	color: white;
+	text-transform: uppercase;
+
+}
